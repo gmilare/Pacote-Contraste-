@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: contraste
+Version: 1.0
+Summary: Pacote Contraste - Aplicando contrastes em imagens Landsat8 por classes de uso e cobertura do solo de imagens classificadas do Mapbiomas.
+Home-page: UNKNOWN
+Author: Diego Marcochi de Melo, Marielcio Lacerda, Gisele Milare
+Author-email: user@email.org
+License: MIT
+Description: O pacote contraste permite aplicar contrastes de forma otimizada e personalizada por classes de uso e cobertura do solo. 
+        Na forma otimizada, o pacote aplica os melhores algoritmos de contraste por classes registradas no Mapbiomas.
+        Na parte personalizada, o pacote permite o usuÃ¡rio aplicar os contrastes desejados para cada classe constante na cena.
+        
+        
+        Este pacote foi desenvolvido como requisito para o trabalho final da disciplina de IntroduÃ§Ã£o Ã  ProgramaÃ§Ã£o para Sensoriamento Remoto - SER-247.
+        
+        VersÃ£o 1.0.0
+        ------------
+        
+        - Primeira versÃ£o estÃ¡vel do pacote
+Keywords: Contraste,Classes de Uso e Cobertura do Solo,Landsat8,Mapbiomas
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: GIS
+Description-Content-Type: text/x-rst

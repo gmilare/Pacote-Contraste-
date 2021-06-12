@@ -1,0 +1,16 @@
+CHANGES.rst
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+contraste/__init__.py
+contraste/config.py
+contraste/contraste.py
+contraste/version.py
+contraste.egg-info/PKG-INFO
+contraste.egg-info/SOURCES.txt
+contraste.egg-info/dependency_links.txt
+contraste.egg-info/not-zip-safe
+contraste.egg-info/requires.txt
+contraste.egg-info/top_level.txt
