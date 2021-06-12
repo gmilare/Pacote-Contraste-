@@ -5,7 +5,7 @@ final da disciplina SER-347: Projeto 8 - Contraste de imagens.
 
 ## Contexto e Objetivos
 
-O objetivo do trabalho consiste em disponibilizar um pacote que permite aplicar técnicnasd de contrastes em imagens Landsat 8 e também de forma otimizada e personalizada por classes de uso e cobertura do solo. 
+O objetivo do trabalho consiste em disponibilizar um pacote que permite aplicar técnicas de contrastes em imagens Landsat 8 e também de forma otimizada e personalizada por classes de uso e cobertura do solo. 
 
 O pacote fornece funções para aplicar cada um das seguintes técnincas de contrastes: raiz quadrada, funcão quadrática, contraste linear; contraste de mínimo e máximo, contraste negativo e equalização de histograma.
 
