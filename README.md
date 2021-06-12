@@ -17,9 +17,13 @@ Na parte personalizada, o pacote permite o usuário aplicar os contrastes deseja
 
 Nesta seção explicamos a organização usada para os códigos e dados disponibilizados neste trabalho.
 
+
 ser-347/contraste/contraste/contraste.py - código principal do pacote contraste
+
 ser-347/contraste/dist - localização do arquivo compactado para download do pacote
+
 ser-347/contraste/examples - exemplos de utilização do pacote
+
 ser-347/contraste/tests - testes realizados para implementação do pacote
 
 
