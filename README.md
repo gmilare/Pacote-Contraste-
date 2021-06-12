@@ -16,7 +16,29 @@ Na parte personalizada, o pacote permite o usuário aplicar os contrastes deseja
 ## Organização do Repositório
 
 Nesta seção explicamos a organização usada para os códigos e dados disponibilizados neste trabalho.
-Na pasta contraste 
+
+
+.. table::
+
+    +-----------------------------------+------------------------------------------------------------------------------------+
+    | Nome                              | Description                                                                        |
+    +===================================+====================================================================================+
+    + ``ser-347/contraste/docs/sphinx`` | Pasta de documentação                                                              |
+    +-----------------------------------+------------------------------------------------------------------------------------+
+    + ``ser-347/contraste/examples``    | Scripts com exemplos de código                                                     |
+    +-----------------------------------+------------------------------------------------------------------------------------+
+    + ``ser-347/contraste/tests``       | testes realizados para implementação do pacote                                     |
+    +-----------------------------------+------------------------------------------------------------------------------------+
+    + ``ser-347/contraste/dist``        | Localização do arquivo compactado para download do pacote                          |
+    +-----------------------------------+------------------------------------------------------------------------------------+
+
+
+ser-347/contraste: todos os arquivos do trabalho.
+ser-347/contraste/contraste/contraste.py - código principal do pacote contraste
+ser-347/contraste/dist - localização do arquivo compactado para download do pacote
+ser-347/contraste/examples - exemplos de utilização do pacote
+ser-347/contraste/tests - testes realizados para implementação do pacote
+
 
 ## Referências
 
