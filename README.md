@@ -3,6 +3,8 @@
 Este repositório contém o código fonte do trabalho
 final da disciplina SER-347: Projeto 8 - Contraste de imagens.
 
+Alunos: Diego Marcochi de Melo, Gisele Milare e Marielcio Gonçalves Lacerda
+
 ## Contexto e Objetivos
 
 O objetivo do trabalho consiste em disponibilizar um pacote que permite aplicar técnicas de contrastes em imagens Landsat 8 e também de forma otimizada e personalizada por classes de uso e cobertura do solo. 
@@ -15,7 +17,7 @@ Na parte personalizada, o pacote permite o usuário aplicar os contrastes deseja
 
 ## Organização do Repositório
 
-Nesta seção explicamos a organização usada para os códigos e dados disponibilizados neste trabalho.
+A organização usada para os códigos e dados disponibilizados neste trabalho é descrita a seguir:
 
 
 ser-347/contraste/contraste/contraste.py - código principal do pacote contraste
