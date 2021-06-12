@@ -1,11 +1,10 @@
 # SER-347 - Projeto Final
 
 Este repositório contém o código fonte do trabalho
-final da disciplina SER-347.
+final da disciplina SER-347: Projeto 8 - Contraste de imagens
 
 ## Contexto e Objetivos
 
-Uma breve descrição do projeto e seus objetivos...
 
 ## Organização do Repositório
 
