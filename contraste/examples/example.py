@@ -13,7 +13,7 @@ from osgeo import gdal
 pip install contraste-1.0.tar.gz
 
 ##importar a função de contrastre raiz quadrada do pacote
-#outras funções disponíveis: 
+#outras funções disponíveis: Quadrativa, MinMax, Linear, Negativo, Equalização
 from contraste import RaizQuadrada
 
 ##Chamada da função
