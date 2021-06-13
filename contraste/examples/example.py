@@ -13,18 +13,18 @@ from osgeo import gdal
 pip install contraste-1.0.tar.gz
 
 ##importar a função de contrastre raiz quadrada do pacote
-#outras funções disponíveis: Quadrativa, MinMax, Linear, Negativo, Equalização
-from contraste import RaizQuadrada
+#outras funções disponíveis: QUADRATICO,  MINMAX, LINEAR, NEGATIVO e EQUALIZACAO
+from contraste.RaizQuadrada import RAIZQUADRADA
 
 ##Chamada da função
-RaizQuadrada()
+RAIZQUADRADA()
 # A função listará os arquivos .tif do diretório raiz. Selecionar a imagem (Landsat 8) de acordo com a numeração.
 # O contraste será aplicado na imagem selecionada
 
 ####importar a função de contrastre por classe
-from contraste import PorClasse
+from contraste.PorClasse import PORCLASSE
 
 ##Chamada da função
-PorClasse()
+PORCLASSE()
 # A função listará os arquivos .tif do diretório raiz. Selecionar a imagem (Landsat 8) de acordo com a numeração e, posteriormente, a imagem classificada (Mapbiomas).
 # Escolha se o contraste será otimizado (1) ou personalizado (2)
