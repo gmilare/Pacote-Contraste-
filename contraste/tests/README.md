@@ -1,0 +1,1 @@
+Com objetivo de selecionar para cada classe de uso e cobertura da terra (formação florestal, formação natural não florestal, agropecuária, área não vegetada e corpos d'água) a técnica mais adequada, utilizou o script em python selecao.py, onde foi gerado para cada classe um conjunto de imagens com a aplicação de cada técnicna de contraste.
