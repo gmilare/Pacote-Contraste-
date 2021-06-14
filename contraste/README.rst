@@ -5,3 +5,5 @@ Na parte personalizada, o pacote permite o usuário aplicar os contrastes deseja
 
 
 Este pacote foi desenvolvido como requisito para o trabalho final da disciplina de Introdução à Programação para Sensoriamento Remoto - SER-347.
+
+Para utilização do pacote contraste é necessária a instalação do pacote gdal, versão igual ou superior a 3.3.0 (https://gdal.org/).
