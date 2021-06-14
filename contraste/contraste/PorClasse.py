@@ -89,7 +89,7 @@ def PORCLASSE():
         for i in range(banda_classificada_array.shape[0]):
             for j in range(banda_classificada_array.shape[1]):
                 if banda_classificada_array[i][j] == 3:
-                    # aplica o contraste Quadrático para a classe 3 (Formação Florestal)
+                    # aplica o contraste Linear para a classe 3 (Formação Florestal)
                     red[i][j] = lin(red[i][j], max_red, min_red)
                     nir[i][j] = lin(nir[i][j], max_nir, min_nir)
                     swir[i][j] = lin(swir[i][j], max_swir, min_swir)
