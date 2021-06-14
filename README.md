@@ -22,7 +22,7 @@ ser-347/contraste/contraste - localização dos arquivos dos módulos do pacote 
 
 ser-347/contraste/dist - localização do arquivo compactado para download do pacote
 
-ser-347/contraste/examples - exemplos de utilização do pacote
+ser-347/contraste/examples - exemplo de utilização do pacote
 
 ser-347/contraste/tests - arquivos de teste realizado para seleção de contraste por classe
 
