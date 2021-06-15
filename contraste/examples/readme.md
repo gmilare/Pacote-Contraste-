@@ -4,7 +4,7 @@ Para utilização do pacote contraste é necessária a instalação do pacote gd
 
 A instalação de pacote via pip, instala o pacote na pasta site-package. Para instalação no mesmo diretório, cooloque o arquivo contraste-1.0.tar.gz e execute o pip install contraste-1.0.tar.gz com o python setado neste diretório.
 
-Depois de instalado, entre no Terminal python e importe o módulo de intersse (ou use o * para importar todos), atraves destes comandos:
+Depois de instalado, entre no Terminal python e importe o módulo de interesse (ou use o * para importar todos), através destes comandos:
 
     from contraste.RaizQuadrada import RAIZQUADRADA
 
