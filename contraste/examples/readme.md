@@ -1,4 +1,4 @@
-Para execução do código de exemplo, copie os arquivos landsat8.tif, mapbiomas.tif e example.py para um mesmo diretório. Baixe o pacote em: https://github.com/gmilare/ser-347/tree/main/contraste/dist e realize a instalação.
+Para execução do código de exemplo, copie os arquivos landsat8.tif, mapbiomas.tif e example.py para um mesmo diretório. Baixe o pacote em: https://github.com/gmilare/Pacote-Contraste-/tree/main/contraste/dist e realize a instalação.
 
 Para utilização do pacote contraste é necessária a instalação do pacote gdal, versão igual ou superior a 3.3.0 (https://gdal.org/).
 
