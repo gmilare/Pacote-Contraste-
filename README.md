@@ -1,4 +1,4 @@
-#Pacote Contraste
+## Pacote Contraste
 
 Este repositório contém o código fonte do Pacote - Contraste.
 
