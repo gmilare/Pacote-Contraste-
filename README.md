@@ -1,9 +1,8 @@
-# SER-347 - Projeto Final
+#Pacote Contraste
 
-Este repositório contém o código fonte do trabalho
-final da disciplina SER-347: Projeto 8 - Contraste de imagens.
+Este repositório contém o código fonte do Pacote - Contraste.
 
-Alunos: Diego Marcochi de Melo, Gisele Milare e Marielcio Gonçalves Lacerda
+ Diego Marcochi de Melo, Gisele Milare e Marielcio Gonçalves Lacerda
 
 ## Contexto e Objetivos
 
