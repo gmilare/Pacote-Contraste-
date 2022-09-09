@@ -16,14 +16,13 @@ O pacote também disponibiliza função de aplicação de técnica de contraste 
 
 A organização usada para os códigos e dados disponibilizados neste trabalho é descrita a seguir:
 
+Pacote-Contraste-/contraste/contraste - localização dos arquivos dos módulos do pacote contraste
 
-ser-347/contraste/contraste - localização dos arquivos dos módulos do pacote contraste
+Pacote-Contraste-/contraste/dist - localização do arquivo compactado para download do pacote
 
-ser-347/contraste/dist - localização do arquivo compactado para download do pacote
+Pacote-Contraste-/contraste/examples - exemplo de utilização do pacote
 
-ser-347/contraste/examples - exemplo de utilização do pacote
-
-ser-347/contraste/tests - arquivos de teste realizado para seleção de contraste por classe
+Pacote-Contraste-/contraste/tests - arquivos de teste realizado para seleção de contraste por classe
 
 
 ## Referências
